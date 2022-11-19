@@ -1,5 +1,5 @@
 ### Hi I'm Matt
 
-- 🔭 I’m currently working @ Cox Automotive
-- 🌱 I’m currently learning Terraform, Serverless, and AWS
-- 👯 I’m looking to contribute to some open source projects that I'm interested in
+- 🔭 Currently working @ Cox Automotive
+- 🌱 Learning Terraform, Serverless, and AWS
+- 👯 Looking to contribute to some open source projects that I'm interested in
